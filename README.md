@@ -33,3 +33,4 @@ En caso de no haber coincidencias para el radio dado por el usuario, se le sugie
 De igual forma, si el usuario hace solicitudes de un radio muy grande y se tienen muchos cajeros, se le sugiere reducir el radio de búsqueda:
 ![image](https://user-images.githubusercontent.com/60095090/197401046-cd874e43-562f-472c-b132-3c00c55cd82a.png)
 
+# Un video demostrativo del uso del bot se puede encontrar en el siguiente enlace: https://drive.google.com/file/d/1ZNfX0LZXErnMr9AcTvKbSniFJZ25igL-/view?usp=sharing
